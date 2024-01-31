@@ -1,8 +1,8 @@
 ### Hi there 👋
 Anupama Sharma
-*Total 5 years of experience as .NET Developer*
+- * With total 5 years of experience as .NET Developer*
 
-🌐 **LinkedIn:** [Your LinkedIn Profile Link]
+🌐 **LinkedIn:** www.linkedin.com/in/anupama-sharma-b95a27136
 
 📧 **Email:** anupama23official@gmail.com
 
@@ -60,10 +60,14 @@ AKTU, 2019
 ### Projects:
 
 - **Project 1: [Factorfox]**
-  - Description of the project, your role, technologies used, and outcomes.
-
+  - It is the first Factoring Cloud Software.
+  - Description – FactorFox Nimbus was designed to streamline operations and scan for any transactions that
+deviate from what is standard, normal, or expected.
+a. Web URL - https://nimbus.factorfox.net
+b. Technology used – .Net (MVC), Angularjs
 - **Project 2: [Prerna]**
-  - Description of the project, your role, technologies used, and outcomes.
+  - It is a portal for teaching staff of the primary and upper primary of BASIC SIKSHA DEPARTMENT of GOVT of Uttar Pradesh Related to attendance monitoring ,Mid Day Meal Monitoring.
+a. Web URL – https://www.prernaup.in b. Technology used – .Net (MVC).
 
 ---
 ### Contact:
